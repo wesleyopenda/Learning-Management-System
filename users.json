@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1666631705089",
+    "name": "Mary",
+    "email": "mary@gmail",
+    "password": "$2b$10$O9odofyqREGtk9l626LqFevqsgIxWNy5jNeAunK2nIe4qwg8zqFn6"
+  },
+  {
+    "id": "1666632411238",
+    "name": "Admin",
+    "email": "admin@gmail",
+    "password": "$2b$10$yiz5HKjP25KI03UBx.WAe.Fg.nBlAwJINCzj7wm4QUs5C44uAoR8y"
+  }
+]

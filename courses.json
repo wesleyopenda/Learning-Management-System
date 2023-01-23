@@ -1,0 +1,16 @@
+[
+  {
+    "courseID": "APT3025",
+    "courseName": "Machine Learning",
+    "instructor": "Audrey",
+    "courseDay": "Monday",
+    "courseTime": "09:00"
+  },
+  {
+    "courseID": "APP4035",
+    "courseName": "Frameworks",
+    "instructor": "Austin Sifuna",
+    "courseDay": "Tuesday",
+    "courseTime": "20:23"
+  }
+]

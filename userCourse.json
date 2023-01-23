@@ -1,0 +1,42 @@
+[
+  {
+    "courseID": "APP4035",
+    "email": "mary@gmail",
+    "role": "Student"
+  },
+  {
+    "courseID": "APP4035",
+    "email": "mary@gmail",
+    "role": "Lecturer"
+  },
+  {
+    "courseID": "APP4035",
+    "email": "mary@gmail",
+    "role": "Student"
+  },
+  {
+    "courseID": "APP4035",
+    "email": "mary@gmail",
+    "role": "Lecturer"
+  },
+  {
+    "courseID": "APP4035",
+    "email": "mary@gmail",
+    "role": "Lecturer"
+  },
+  {
+    "courseID": "HPS",
+    "email": "mary@gmail",
+    "role": "Student"
+  },
+  {
+    "courseID": "HPS",
+    "email": "mary@gmail",
+    "role": "Student"
+  },
+  {
+    "courseID": "APT3025",
+    "email": "mary@gmail",
+    "role": "Lecturer"
+  }
+]
